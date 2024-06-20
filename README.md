@@ -1,1 +1,5 @@
 # yelp_restaurant
+
+The "Restaurant Recommendation System" was developed to connect diners with top-quality restaurants in Arizona using Yelp's datasets. This project focuses on building a platform that personalizes dining recommendations by analyzing Yelp reviews, business ratings, and user engagement. Leveraging techniques such as text mining and collaborative filtering, the system provides tailored suggestions that align with users' dining preferences, enhancing their overall experience.
+
+The system utilizes Yelp data to highlight restaurants with high ratings and positive reviews, particularly from elite users. It combines collaborative filtering, which analyzes user rating patterns, with content-based filtering, which matches restaurant features to user preferences. This dual approach ensures that recommendations are both relevant and personalized, making it easier for diners to discover their ideal dining spots in Arizona. The project effectively demonstrates the use of data analytics and machine learning to transform and enhance the dining discovery process.
